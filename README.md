@@ -87,13 +87,13 @@ https://hydrogen-dashboard.netlify.app/
 - Trending Posts
 - Friends Posts
 - Create Post
-    - Post content
-    - Post privacy
-    - Add specific friend who will see the post
-    - Tag friend
-    - Add  Images
-    - Add feelings
-    - Add locations
+    - Post content📫
+    - Post privacy🔏
+    - Add specific friend who will see the post👩👨
+    - Tag friend🏷️
+    - Add  Images📷
+    - Add feelings😄😉😑
+    - Add locations📍
 - Add and remove heart on post
 - Comment on post
 - Delete post
